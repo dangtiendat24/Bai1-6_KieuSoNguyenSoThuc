@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E21jT1zzO9HTJKRTgVyFO6fZ+rNIhT1WIsPPqvk/XNsLLZDcRhv+1nB1VxcKIdytLhfVXKspgknUm9CkW5NC1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dang Dat\\source\\repos\\Bai5_kieuSoNguyenSoThuc\\Bai5_kieuSoNguyenSoThuc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dang Dat\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\Dang Dat\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\Dang Dat\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

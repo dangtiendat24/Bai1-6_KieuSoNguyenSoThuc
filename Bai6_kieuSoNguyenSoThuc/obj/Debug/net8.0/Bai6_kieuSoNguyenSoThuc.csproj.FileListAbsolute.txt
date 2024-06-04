@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\bin\Debug\net8.0\Bai6_kieuSoNguyenSoThuc.exe
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\bin\Debug\net8.0\Bai6_kieuSoNguyenSoThuc.deps.json
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\bin\Debug\net8.0\Bai6_kieuSoNguyenSoThuc.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\bin\Debug\net8.0\Bai6_kieuSoNguyenSoThuc.dll
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\bin\Debug\net8.0\Bai6_kieuSoNguyenSoThuc.pdb
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\obj\Debug\net8.0\Bai6_kieuSoNguyenSoThuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\obj\Debug\net8.0\Bai6_kieuSoNguyenSoThuc.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\obj\Debug\net8.0\Bai6_kieuSoNguyenSoThuc.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\obj\Debug\net8.0\Bai6_kieuSoNguyenSoThuc.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\obj\Debug\net8.0\Bai6_kieuSoNguyenSoThuc.dll
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\obj\Debug\net8.0\refint\Bai6_kieuSoNguyenSoThuc.dll
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\obj\Debug\net8.0\Bai6_kieuSoNguyenSoThuc.pdb
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\obj\Debug\net8.0\Bai6_kieuSoNguyenSoThuc.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\Bai6_kieuSoNguyenSoThuc\obj\Debug\net8.0\ref\Bai6_kieuSoNguyenSoThuc.dll
