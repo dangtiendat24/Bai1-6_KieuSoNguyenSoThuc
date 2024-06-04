@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\bin\Debug\net8.0\SoNguyen4byte.exe
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\bin\Debug\net8.0\SoNguyen4byte.deps.json
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\bin\Debug\net8.0\SoNguyen4byte.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\bin\Debug\net8.0\SoNguyen4byte.dll
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\bin\Debug\net8.0\SoNguyen4byte.pdb
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\obj\Debug\net8.0\SoNguyen4byte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\obj\Debug\net8.0\SoNguyen4byte.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\obj\Debug\net8.0\SoNguyen4byte.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\obj\Debug\net8.0\SoNguyen4byte.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\obj\Debug\net8.0\SoNguyen4byte.dll
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\obj\Debug\net8.0\refint\SoNguyen4byte.dll
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\obj\Debug\net8.0\SoNguyen4byte.pdb
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\obj\Debug\net8.0\SoNguyen4byte.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\SoNguyen4byte\obj\Debug\net8.0\ref\SoNguyen4byte.dll
